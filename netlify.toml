@@ -1,0 +1,4 @@
+[build]
+  base = "365-journal"
+  command = "npm run build"
+  publish = "dist"
